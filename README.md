@@ -8,4 +8,12 @@ Tech Stack:
 - Backend: node.js
 - Database: MongoDB
 
-Instructions
+## Instructions
+
+1.  To run this locally:
+
+```
+node app.js
+```
+
+1.  Navigate to `localhost:4000/graphql` and make your first query!
