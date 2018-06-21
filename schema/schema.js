@@ -66,7 +66,8 @@ var clothingItems = [
     id: "5",
     name: "Frilly vest",
     type: "top",
-    colour: "1"
+    colour: "1",
+    brandId: "2"
   }
 ];
 
